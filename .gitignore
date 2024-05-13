@@ -1,0 +1,16 @@
+node_modules/
+package-lock.json
+.vscode/
+.env
+
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+.DS_Store
+*.pem
+
+
+.env*.local
+
+*.tsbuildinfo
